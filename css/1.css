@@ -84,8 +84,10 @@ nav li{
   display: inline;
   border: solid black;
   font-weight: bold;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-bottom: 1em;
+  padding-top: 1em;
 }
 
 nav ul, footer p, h1,h2,h3,h4,h5,h6{
