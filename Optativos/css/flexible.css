@@ -1,0 +1,26 @@
+/*los coloca verticalmente*/
+.contenedorflex5{
+	display: flex;
+	flex-direction: column;
+}
+/*los coloca verticalmente pero al reves*/
+.contenedorflex1{
+	display: flex;
+	flex-direction: column-reverse;
+}
+/*los coloca horizontalmente y los elementos adaptables al tamaño de la ventana*/
+.contenedorflex2{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+/*coloca los elementos en una fila*/
+.contenedorflex4 {
+	display: flex;
+	flex-direction: column;
+}
+/*centra los elementos*/
+.contenedorflex6 {
+	display: flex;
+	justify-content: center;
+  }
